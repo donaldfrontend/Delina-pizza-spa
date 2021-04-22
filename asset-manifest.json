@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/Delina-pizza-spa/static/js/main.bd8d8e47.chunk.js",
+    "main.js.map": "/Delina-pizza-spa/static/js/main.bd8d8e47.chunk.js.map",
+    "runtime-main.js": "/Delina-pizza-spa/static/js/runtime-main.2bf9f333.js",
+    "runtime-main.js.map": "/Delina-pizza-spa/static/js/runtime-main.2bf9f333.js.map",
+    "static/js/2.379e0fd8.chunk.js": "/Delina-pizza-spa/static/js/2.379e0fd8.chunk.js",
+    "static/js/2.379e0fd8.chunk.js.map": "/Delina-pizza-spa/static/js/2.379e0fd8.chunk.js.map",
+    "static/js/3.83b62781.chunk.js": "/Delina-pizza-spa/static/js/3.83b62781.chunk.js",
+    "static/js/3.83b62781.chunk.js.map": "/Delina-pizza-spa/static/js/3.83b62781.chunk.js.map",
+    "index.html": "/Delina-pizza-spa/index.html",
+    "static/js/2.379e0fd8.chunk.js.LICENSE.txt": "/Delina-pizza-spa/static/js/2.379e0fd8.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/Delina-pizza-spa/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/Delina-pizza-spa/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/Delina-pizza-spa/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/Delina-pizza-spa/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/Delina-pizza-spa/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/Delina-pizza-spa/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/Delina-pizza-spa/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/Delina-pizza-spa/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bf9f333.js",
+    "static/js/2.379e0fd8.chunk.js",
+    "static/js/main.bd8d8e47.chunk.js"
+  ]
+}
